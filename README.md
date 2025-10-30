@@ -1,4 +1,4 @@
-# 🔬 Robocode CI Report — Nycolas-Salvego
+# 🔬 Robocode CI Report — 
 **2025-09-09**
 
 **Languages:** [English](README.md) • [Português (pt-BR)](README.pt-BR.md) • [中文（简体）](README.zh-CN.md)
